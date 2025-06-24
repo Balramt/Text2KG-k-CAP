@@ -5,7 +5,7 @@ The following table presents the evaluation metrics for three different language
 
 | LLM Name           | Evaluation Metrics | avg_precision | avg_recall | avg_f1 |
 |--------------------|--------------------|---------------|------------|--------|
-| Alpaca-LoRA-13B    | Movie              | 0.28          | 0.14       | 0.17   |
+| **Alpaca-LoRA-13B**| Movie              | 0.28          | 0.14       | 0.17   |
 |                    | Music              | 0.33          | 0.19       | 0.22   |
 |                    | Sport              | 0.51          | 0.44       | 0.45   |
 |                    | Book               | 0.25          | 0.17       | 0.19   |
@@ -18,7 +18,7 @@ The following table presents the evaluation metrics for three different language
 |--------------------|--------------------|---------------|------------|--------|
 |                    | **Average**        | 0.36          | 0.17       | 0.20   |
 |--------------------|--------------------|---------------|------------|--------|
-| LLAMA3             | Movie              | 0.38          | 0.23       | 0.26   |
+| **LLAMA3**         | Movie              | 0.38          | 0.23       | 0.26   |
 |                    | Music              | 0.42          | 0.28       | 0.31   |
 |                    | Sport              | 0.52          | 0.45       | 0.46   |
 |                    | Book               | 0.34          | 0.29       | 0.29   |
@@ -31,7 +31,7 @@ The following table presents the evaluation metrics for three different language
 |--------------------|--------------------|---------------|------------|--------|
 |                    | **Average**        | 0.38          | 0.30       | 0.31   |
 |--------------------|--------------------|---------------|------------|--------|
-| Vicuna-13B         | Movie              | 0.33          | 0.23       | 0.25   |
+| **Vicuna-13B**     | Movie              | 0.33          | 0.23       | 0.25   |
 |                    | Music              | 0.42          | 0.28       | 0.32   |
 |                    | Sport              | 0.57          | 0.52       | 0.52   |
 |                    | Book               | 0.31          | 0.25       | 0.26   |
@@ -44,7 +44,7 @@ The following table presents the evaluation metrics for three different language
 |--------------------|--------------------|---------------|------------|--------|
 |                    | **Average**        | 0.38          | 0.35       | 0.35   |
 |--------------------|--------------------|---------------|------------|--------|
-| Mistral            | Movie              | 0.37          | 0.19       | 0.23   |
+| **Mistral**        | Movie              | 0.37          | 0.19       | 0.23   |
 |                    | Music              | 0.40          | 0.24       | 0.28   |
 |                    | Sport              | 0.56          | 0.45       | 0.49   |
 |                    | Book               | 0.37          | 0.27       | 0.30   |
